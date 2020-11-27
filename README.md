@@ -1,4 +1,4 @@
-# Python Projects & Exercises
+# Python Exercise
  
 Tic-Tac-Toe in Python!
 
